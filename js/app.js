@@ -1,3 +1,4 @@
+console.log('I have been added');
 //if user adds a note
 shownNotes();
 let addBtn = document.getElementById('addBtn');
